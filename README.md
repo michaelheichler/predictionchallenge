@@ -110,13 +110,13 @@ Project Link: [https://github.com/michaelheichler/predictionchallenge](https://g
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/michaelheichler/predictionchallenge.svg?style=flat-square
 [contributors-url]: https://github.com/michaelheichler/predictionchallenge/graphs/contributors
-[forks-shield]: https://img.shields.io/github/contributors/michaelheichler/predictionchallenge.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/michaelheichler/predictionchallenge.svg?style=flat-square
 [forks-url]: https://github.com/michaelheichler/predictionchallenge//network/members
-[stars-shield]: https://img.shields.io/github/contributors/michaelheichler/predictionchallenge.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/michaelheichler/predictionchallenge.svg?style=flat-square
 [stars-url]: https://github.com/michaelheichler/predictionchallenge/stargazers
-[issues-shield]: https://img.shields.io/github/contributors/michaelheichler/predictionchallenge.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/michaelheichler/predictionchallenge.svg?style=flat-square
 [issues-url]: https://github.com/michaelheichler/predictionchallenge/issues
-[license-shield]: https://img.shields.io/github/contributors/michaelheichler/predictionchallenge.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/michaelheichler/predictionchallenge.svg?style=flat-square
 [license-url]: https://github..com/michaelheichler/predictionchallenge/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/michael-heichler-8b5616192/
