@@ -118,7 +118,7 @@ Project Link: [https://github.com/michaelheichler/predictionchallenge](https://g
 [issues-url]: https://github.com/michaelheichler/predictionchallenge/issues
 [license-shield]: https://img.shields.io/github/contributors/michaelheichler/predictionchallenge.svg?style=flat-square
 [license-url]: https://github..com/michaelheichler/predictionchallenge/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/github/contributors/michaelheichler/predictionchallenge.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/michaelheichler
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/michael-heichler-8b5616192/
 [product-screenshot]: PredictionChallenge_OurConceptInANutshell.png
 
