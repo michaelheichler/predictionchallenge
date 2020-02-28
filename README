@@ -4,7 +4,7 @@ Welcome on the Git Repository of the Prediction Challenge from Heichler, Michael
 
 Following Data can be found here:
 
-- iPython Notebook "DataAnalysis.ipynb" - Data Analysis of the dataset
+- iPython Notebook "DataAnalysis.ipynb" - Data Analysis of the data set
 - iPython Notebook "PredictionChallenge_Model.ipynb" - Model Design, Prediction
 - Graphic for Illustration and procedure: "PredictionChallenge_OurConceptInANutshell.png"
 - Submission File: "submission-465475-470057.csv"
