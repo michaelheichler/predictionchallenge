@@ -102,6 +102,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Michael Heichler - michael.heichler@fom-net.de
 
+Patrick Schulte-Austum - patrick.schulte-austum@fom-net.de
+
 Project Link: [https://github.com/michaelheichler/predictionchallenge](https://github.com/michaelheichler/predictionchallenge)
 
 
